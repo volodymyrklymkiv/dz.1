@@ -3,14 +3,10 @@ body {
 }
 .header {
     background-color: orange;
-    display: flex;
-    justify-content: center;
+    
 }
 p {
     font-size: 18px;
     font-weight: bold;
     margin: 10px;
-}
-.main {
-    display: 
 }
